@@ -1,0 +1,63 @@
+body{
+    margin: 0 auto;
+    background-color: rgb(51, 18, 7);
+}
+h1{
+    margin: 0 auto;
+    font-size: 70px;
+    font-family: fantasy;
+    color: darkgreen;
+    text-align: center;
+    font-style: italic;
+}
+.Main{
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 2px 5px 3px black;
+    transition: 0.3s;
+    width: 500px;
+    background-color: lightgreen;
+}
+.Main:hover{
+    box-shadow: 5px 10px 6px yellowgreen;
+}
+#text{
+  
+    border:  2px solid green;
+    text-align: center;
+    width: 490px;
+    height: 100px;
+    font-size: x-large;
+    font-family: fantasy;
+    color: whitesmoke;
+    letter-spacing: 3px;
+    background-color: black;
+}
+.bo{
+    text-align: center;
+
+}
+#C{
+    width: 135px;
+    height: 70px;
+    font-size: 20px;
+    border: 2px solid  floralwhite;
+    background-color: peru;
+    font-family: fantasy;
+
+}
+#C:hover{
+    background-color: yellow;
+}
+#o{
+    width: 80px;
+    font-size: 20px;
+    border: 2px solid floralwhite;
+    background-color: blueviolet;
+    font-family: fantasy;
+    height: 70px;
+
+}
+#o:hover{
+    background-color: yellow;
+}
